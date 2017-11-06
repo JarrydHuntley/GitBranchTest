@@ -15,9 +15,9 @@ namespace GitBranchTest
 
             Console.WriteLine("Hello " + name);
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 3; i < 20; i++)
             {
-                Console.WriteLine("Git branch test yay " + i);
+                Console.WriteLine("This is the branch where everything is fixed for REAL!" + i);
             }
 
             for(int i = 10; i > 0; i--)
