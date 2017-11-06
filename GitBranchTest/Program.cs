@@ -16,6 +16,11 @@ namespace GitBranchTest
                 Console.WriteLine("Git branch test yay " + i);
             }
 
+            for(int i = 10; i > 0; i--)
+            {
+                Console.WriteLine(" Numbers: " + i);
+            }
+
         }
     }
 }
