@@ -15,9 +15,9 @@ namespace GitBranchTest
 
             Console.WriteLine("Hello " + name);
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 1; i < 12; i++)
             {
-                Console.WriteLine("Git branch test yay " + i);
+                Console.WriteLine("G-G-G-Git BrAnCh test hooray " + i);
             }
 
             for(int i = 10; i > 0; i--)
